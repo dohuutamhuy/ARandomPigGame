@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 9979185500ebe7d479710690368ebb43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4257192715487130533
+    second: smaller stadium_0
+  - first:
+      213: -8291649775508393666
+    second: smaller stadium_1
+  - first:
+      213: 2913306600236537310
+    second: smaller stadium_2
+  - first:
+      213: 5407593774757555590
+    second: smaller stadium_3
+  - first:
+      213: -6052265260579484135
+    second: smaller stadium_4
+  - first:
+      213: 2918290249657050282
+    second: smaller stadium_5
+  - first:
+      213: -6605278210370854850
+    second: smaller stadium_6
+  - first:
+      213: -5616451418454593422
+    second: smaller stadium_7
+  - first:
+      213: -3884407985627810243
+    second: smaller stadium_8
+  - first:
+      213: 4889193334103177070
+    second: smaller stadium_9
+  - first:
+      213: -2063705234847710316
+    second: smaller stadium_10
+  - first:
+      213: 8985200821264422139
+    second: smaller stadium_11
+  - first:
+      213: 8711782442592991849
+    second: smaller stadium_12
+  - first:
+      213: 2137256718468357355
+    second: smaller stadium_13
+  - first:
+      213: 8136370392477624551
+    second: smaller stadium_14
+  - first:
+      213: 6191380193291079124
+    second: smaller stadium_15
+  - first:
+      213: -1845559562374178054
+    second: smaller stadium_16
+  - first:
+      213: -4851777360761415031
+    second: smaller stadium_17
+  - first:
+      213: -882643946304042640
+    second: smaller stadium_18
+  - first:
+      213: 978308061229645248
+    second: smaller stadium_19
+  - first:
+      213: -6420473720119354679
+    second: smaller stadium_20
+  - first:
+      213: -8267178086638111796
+    second: smaller stadium_21
+  - first:
+      213: 3018054313323793721
+    second: smaller stadium_22
+  - first:
+      213: -4115298872382005770
+    second: smaller stadium_23
+  - first:
+      213: -4308722389358951337
+    second: smaller stadium_24
+  - first:
+      213: 1439361972780014088
+    second: smaller stadium_25
+  - first:
+      213: 8371099093828671823
+    second: smaller stadium_26
+  - first:
+      213: 1966197154286460804
+    second: smaller stadium_27
+  - first:
+      213: -8271435760083118974
+    second: smaller stadium_28
+  - first:
+      213: 2157176410060811063
+    second: smaller stadium_29
+  - first:
+      213: -7281131431364705797
+    second: smaller stadium_30
+  - first:
+      213: -5324387491209077564
+    second: smaller stadium_31
+  - first:
+      213: -7205368551254359798
+    second: smaller stadium_32
+  - first:
+      213: -658784832153217755
+    second: smaller stadium_33
+  - first:
+      213: 2675060661906756945
+    second: smaller stadium_34
+  - first:
+      213: 4950797610350176588
+    second: smaller stadium_35
+  - first:
+      213: -12648349230013906
+    second: smaller stadium_36
+  - first:
+      213: -4469456827541547886
+    second: smaller stadium_37
+  - first:
+      213: -3024822963846337582
+    second: smaller stadium_38
+  - first:
+      213: -185564480994353987
+    second: smaller stadium_39
+  - first:
+      213: 2455524597957836013
+    second: smaller stadium_40
+  - first:
+      213: -912604681432884064
+    second: smaller stadium_41
+  - first:
+      213: 1087550275418906125
+    second: smaller stadium_42
+  - first:
+      213: -2168783898912464064
+    second: smaller stadium_43
+  - first:
+      213: -480388194123083778
+    second: smaller stadium_44
+  - first:
+      213: 5794307996769336271
+    second: smaller stadium_45
+  - first:
+      213: 9222548788653208204
+    second: smaller stadium_46
+  - first:
+      213: 901320391497937366
+    second: smaller stadium_47
+  - first:
+      213: -5535226536213984563
+    second: smaller stadium_48
+  - first:
+      213: -8680245153862223577
+    second: smaller stadium_49
+  - first:
+      213: -8592216530174305991
+    second: smaller stadium_50
+  - first:
+      213: -8057157761760368526
+    second: smaller stadium_51
+  - first:
+      213: -5823957720760737624
+    second: smaller stadium_52
+  - first:
+      213: 7166679459900216211
+    second: smaller stadium_53
+  - first:
+      213: -4238133053989280017
+    second: smaller stadium_54
+  - first:
+      213: 7252545215265475498
+    second: smaller stadium_55
+  - first:
+      213: 5526780233669846304
+    second: smaller stadium_56
+  - first:
+      213: 9105099349931211148
+    second: smaller stadium_57
+  - first:
+      213: 5564551882329101382
+    second: smaller stadium_58
+  - first:
+      213: -2752361897200373829
+    second: smaller stadium_59
+  - first:
+      213: 2846688942531853697
+    second: smaller stadium_60
+  - first:
+      213: 6428376834202094337
+    second: smaller stadium_61
+  - first:
+      213: 7978901825491861882
+    second: smaller stadium_62
+  - first:
+      213: -6304205768444622707
+    second: smaller stadium_63
+  - first:
+      213: 1933201196587176591
+    second: smaller stadium_64
+  - first:
+      213: 8939138054828091442
+    second: smaller stadium_65
+  - first:
+      213: 2836243291307128193
+    second: smaller stadium_66
+  - first:
+      213: -8970478032144582861
+    second: smaller stadium_67
+  - first:
+      213: -5707363570472969530
+    second: smaller stadium_68
+  - first:
+      213: -1470368119886670783
+    second: smaller stadium_69
+  - first:
+      213: -5789976007090140177
+    second: smaller stadium_70
+  - first:
+      213: -1643269100032759988
+    second: smaller stadium_71
+  - first:
+      213: -5596390542609774974
+    second: smaller stadium_72
+  - first:
+      213: -2322160705740661333
+    second: smaller stadium_73
+  - first:
+      213: 3419355367859065039
+    second: smaller stadium_74
+  - first:
+      213: -4087833885455283037
+    second: smaller stadium_75
+  - first:
+      213: 8403417061841014900
+    second: smaller stadium_76
+  - first:
+      213: 8193921429526364206
+    second: smaller stadium_77
+  - first:
+      213: 7133270348492977852
+    second: smaller stadium_78
+  - first:
+      213: -6679504499717931611
+    second: smaller stadium_79
+  - first:
+      213: -4067422256201258215
+    second: smaller stadium_80
+  - first:
+      213: -5365565218716155076
+    second: smaller stadium_81
+  - first:
+      213: -1729244630426100689
+    second: smaller stadium_82
+  - first:
+      213: 4436310893151363611
+    second: smaller stadium_83
+  - first:
+      213: -6282031479484875840
+    second: smaller stadium_84
+  - first:
+      213: -226068356300775866
+    second: smaller stadium_85
+  - first:
+      213: 2895848645483590012
+    second: smaller stadium_86
+  - first:
+      213: 4342060781823192320
+    second: smaller stadium_87
+  - first:
+      213: -7609539200461130228
+    second: smaller stadium_88
+  - first:
+      213: -4704565796712067585
+    second: smaller stadium_89
+  - first:
+      213: -3286404078250302039
+    second: smaller stadium_90
+  - first:
+      213: 3954579125420293339
+    second: smaller stadium_91
+  - first:
+      213: 3654798968749054326
+    second: smaller stadium_92
+  - first:
+      213: 6978956223228308287
+    second: smaller stadium_93
+  - first:
+      213: -3265155825917535971
+    second: smaller stadium_94
+  - first:
+      213: -8950160146147683307
+    second: smaller stadium_95
+  - first:
+      213: -7350738514259780745
+    second: smaller stadium_96
+  - first:
+      213: 774309709534073510
+    second: smaller stadium_97
+  - first:
+      213: 6362632595217795799
+    second: smaller stadium_98
+  - first:
+      213: 972494469448734280
+    second: smaller stadium_99
+  - first:
+      213: -7793581656075139412
+    second: smaller stadium_100
+  - first:
+      213: 7384570840936143470
+    second: smaller stadium_101
+  - first:
+      213: 5210713239087671085
+    second: smaller stadium_102
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 193, y: 192, z: 126, w: 199}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
