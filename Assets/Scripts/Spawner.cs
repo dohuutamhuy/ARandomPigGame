@@ -43,7 +43,7 @@ public class Spawner : MonoBehaviour
             pc.enabled = true;
             Vector3 center = sr.bounds.center;
             Vector3 extends = sr.bounds.extents;
-            for (int i = 0; i <= 50; i++) {
+            for (int i = 0; i < 50; i++) {
                 float newX, newY;
                 do {
                     newX = Random.Range(center.x - extends.x, center.x + extends.x);
@@ -51,7 +51,7 @@ public class Spawner : MonoBehaviour
                 } while (!pc.OverlapPoint(new Vector2(newX, newY)));
                 Instantiate(lemonadePrefab, new Vector3(newX, newY, 0), Quaternion.identity);
             }
-            for (int i = 0; i <= 3; i++) {
+            for (int i = 0; i < 3; i++) {
                 float newX, newY;
                 do {
                     newX = Random.Range(center.x - extends.x, center.x + extends.x);
