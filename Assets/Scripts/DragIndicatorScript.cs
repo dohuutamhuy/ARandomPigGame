@@ -70,7 +70,7 @@ public class DragIndicatorScript : MonoBehaviour {
             Vector2 direction = startPos - endPos;
             rb.AddForce(new Vector2(direction.x, direction.y), ForceMode2D.Impulse);
         }
-        scoreText.text = "Score: " + score.ToString();
+        scoreText.text = "Score: " + score.ToString();        
     }
 
     private void OnTriggerEnter2D(Collider2D collision) {        
