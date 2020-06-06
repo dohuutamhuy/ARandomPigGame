@@ -14,7 +14,7 @@ public class BackgroundMusic : MonoBehaviour {
         }
     }
 
-    void Start() {
+    void Update() {
         GetComponent<AudioSource>().volume = PlayerPrefs.GetFloat("Options_VolumeLevel", 1f);
     }
 }

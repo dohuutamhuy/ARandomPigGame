@@ -36,7 +36,9 @@ public class DragIndicatorScript : MonoBehaviour {
         //Debug.Log("Velocity:" + rb.velocity);        
         if (Input.touchCount > 0) {
             Touch touch = Input.GetTouch(0);
-            if (touch.phase == TouchPhase.Began && sr.bounds.Contains(cam.ScreenToWorldPoint(touch.position) + camOffset)) {                                
+            if (touch.phase == TouchPhase.Began && 
+                sr.bounds.Contains(cam.ScreenToWorldPoint(touch.position) + camOffset) &&
+                !PauseMenuController.gameIsPaused) {
                 lr.enabled = true;                                
                 lr.widthCurve = ac;
                 lr.numCapVertices = 15;
@@ -54,7 +56,9 @@ public class DragIndicatorScript : MonoBehaviour {
             }
         }        
 
-        if (Input.GetMouseButtonDown(0) && sr.bounds.Contains(cam.ScreenToWorldPoint(Input.mousePosition) + camOffset)) {            
+        if (Input.GetMouseButtonDown(0) && 
+            sr.bounds.Contains(cam.ScreenToWorldPoint(Input.mousePosition) + camOffset) &&
+            !PauseMenuController.gameIsPaused) {            
             lr.enabled = true;                            
             lr.widthCurve = ac;
             lr.numCapVertices = 15;
